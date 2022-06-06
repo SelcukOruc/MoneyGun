@@ -1,12 +1,15 @@
 # MoneyGun
 Clone Of Mechanics Of MoneyGun Hyper-Casual Game
+
 Hi, this is my first game cloning project. Before begining this project i tried to learn what elements i should meticulously inspect 
-while cloning hyper-casual games by speaking directly to the people from sector. After getting suggestions and recomendations i took up this project.
-I, particularly, focused on making assets that can be used with little bit modification or directly for upcoming projects in order to increase efficience. 
-However, mostly because of my exams i had to keep developing in my freetime which was limited. Therefore, some assets; still, need some fixations (for example prop).
+while cloning hyper-casual games by speaking directly to the people from game development industry. After getting suggestions and recomendations i took up this 
+project. I, particularly, focused on making assets that can be used with little bit modification or directly in other related-projects in order to increase 
+efficiency rather than VFX. However, mostly because of my exams i had to keep developing in my freetime which was limited. Therefore, some assets; still, need 
+some fixations (for example prop).
 
 
 My plans for next projects;
+
 is to learn and use DoTween to be more productive in shorter times.
 Using Unity version control and working with people.
 Improving myself in keeping up with trends.
